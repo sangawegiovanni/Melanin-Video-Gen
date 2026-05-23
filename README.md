@@ -1,4 +1,3 @@
-Got it. Here is a **clean, professional README.md** tailored to your project name:
 
 
 # 🎬 Melanin Video Generator
