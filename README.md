@@ -1,12 +1,10 @@
 Got it. Here is a **clean, professional README.md** tailored to your project name:
 
----
 
 # 🎬 Melanin Video Generator
 
 A high-performance AI video generation system built on **Lightricks LTX-2**, deployed using **Modal**, capable of generating cinematic **text-to-video (T2V)** and **image-to-video (I2V)** outputs with audio synchronization and scalable GPU inference.
 
----
 
 ## 🚀 Overview
 
@@ -19,7 +17,6 @@ A high-performance AI video generation system built on **Lightricks LTX-2**, dep
 
 It leverages chunk-based generation to produce **high-quality, temporally consistent videos up to 60 seconds long**.
 
----
 
 ## ✨ Key Features
 
@@ -113,7 +110,7 @@ GET /ltx23-status?job_id=YOUR_JOB_ID
 }
 ```
 
----
+
 
 ### 4. Download Final Video
 
@@ -125,7 +122,6 @@ Returns:
 
 * `video/mp4`
 
----
 
 ## ⚙️ How It Works
 
